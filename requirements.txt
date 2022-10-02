@@ -1,0 +1,9 @@
+pandas
+numpy
+pickleshare==0.7.5
+scikit-learn==1.0.2
+Streamlit 
+xgboost
+openpyxl
+pip==22.0.3
+streamlit==0.75.0
